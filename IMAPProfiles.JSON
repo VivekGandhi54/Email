@@ -1,0 +1,26 @@
+{
+	"hotmail" : {
+		"Server" : "imap-mail.outlook.com",
+		"Port" : "993"
+	},
+
+	"outlook" : {
+		"Server" : "outlook.office365.com",
+		"Port" : "993"
+	},
+
+	"gmail" : {
+		"Server" : "imap.gmail.com",
+		"Port" : "993"
+	},
+
+	"yahoo" : {
+		"Server" : "imap.mail.yahoo.com",
+		"Port" : "993"
+	},
+
+	"aol" : {
+		"Server" : "imap.aol.com",
+		"Port" : "993"
+	}
+}
